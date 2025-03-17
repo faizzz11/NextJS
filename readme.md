@@ -20,13 +20,13 @@ This repository contains various projects, components, and experiments as I expl
 
 ## 🔥 What I'm Learning
 
--✅ React Functional Components
--✅ State Management with Hooks
--✅ Routing with Next.js
--✅ Server-Side Rendering (SSR) and Static Generation (SSG)
--✅ API Integration
--✅ Authentication & Authorization
--✅ Deployment and Optimization
+✅ React Functional Components
+✅ State Management with Hooks
+✅ Routing with Next.js
+✅ Server-Side Rendering (SSR) and Static Generation (SSG)
+✅ API Integration
+✅ Authentication & Authorization
+✅ Deployment and Optimization
 
 ## 🎯 Goals
 
